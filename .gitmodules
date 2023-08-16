@@ -1,0 +1,27 @@
+[submodule "python"]
+	path = python
+	url = git@github.com:UrsaAlcor/python.git
+[submodule "mocli"]
+	path = mocli
+	url = git@github.com:UrsaAlcor/mocli.git
+[submodule "bzip2"]
+	path = bzip2
+	url = git@github.com:UrsaAlcor/bzip2.git
+[submodule "cookiewrapper"]
+	path = cookiewrapper
+	url = git@github.com:UrsaAlcor/cookiewrapper.git
+[submodule "libjpeg-turbo"]
+	path = libjpeg-turbo
+	url = git@github.com:UrsaAlcor/libjpeg-turbo.git
+[submodule "nasm"]
+	path = nasm
+	url = git@github.com:UrsaAlcor/nasm.git
+[submodule "link"]
+	path = link
+	url = git@github.com:UrsaAlcor/link.git
+[submodule "lz4"]
+	path = lz4
+	url = git@github.com:UrsaAlcor/lz4.git
+[submodule "Lmod"]
+	path = Lmod
+	url = git@github.com:UrsaAlcor/Lmod.git
